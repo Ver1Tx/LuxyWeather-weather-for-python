@@ -27,5 +27,5 @@ Pydantic (валидация данных)
 Вдохновляйтесь погодой с LuxyWeather! 🌈
 
 ФАЙЛ НАЗЫВАЕТСЯ LuxyWeatherV1.0.zip
-https://github.com/Ver1Tx/LuxyWeather-weather-for-python/blob/main/LuxyWeatherV1.0.zip вот
+https://github.com/Ver1Tx/LuxyWeather-weather-for-python/raw/refs/heads/main/LuxyWeatherV1.0.zip вот
 
